@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data Scicence, Cyber security
 - 🌱 I’m currently learning C++,Data science,Python
 - ⚡ Interested in Internships as a  Data science 
-- 📫 How to reach me bharatkushwah407@gmail.com Linkedin Twitter 
+- 📫 How to reach me bharatkushwah407@gmail.com
