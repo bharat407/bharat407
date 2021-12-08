@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bharat407
+- 👋 Hi, I’m Bharat Kushwah
 - 👀 I’m interested in Data Scicence, Cyber security
 - 🌱 I’m currently learning C++,Data science,Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bharatkushwah407@gmail.com
+- ⚡ Interested in Internships as a  Data science 
+- 📫 How to reach me bharatkushwah407@gmail.com Linkedin Twitter 
