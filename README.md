@@ -1,6 +1,6 @@
 Hi there 👋 
 
-I am Bharat Kushwah, a B.tech IT student at Rustamji Institute of Technology interested in Data science
+I am Bharat Kushwah, a B.tech IT student at Rustamji Institute of Technology interested in Data science,Development
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning Python,Django
 - ⚡ Interested in Internships as a  Web-Developer
