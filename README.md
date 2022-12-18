@@ -5,7 +5,12 @@ I am Bharat Kushwah, a B.tech IT student at Rustamji Institute of Technology int
 - 🌱 I’m know how to build applications with Django and deploy them completely at ready to use level.
 - ⚡ Interested in Internships as a Software Developer and Build amazing application for your Company.
 
-- 📫 How to reach me bharatkushwah407@gmail.com    [LinkedIn](https://www.linkedin.com/in/bharat-kushwah-3a2029208/)    [Twitter](https://twitter.com/BharatK407) 
+### 📫 How to reach me  
+  [LinkedIn](https://www.linkedin.com/in/bharat-kushwah-3a2029208/)    
+ 
+  [Twitter](https://twitter.com/BharatK407)
+  
+  [Instagram](https://www.instagram.com/bharatkushwah407/)
 
 ### Languages and Tools:
 
