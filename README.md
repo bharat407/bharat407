@@ -1,27 +1,45 @@
 # Hi there 👋 
 
-I am **Bharat Kushwah**, a B.tech IT student at Rustamji Institute of Technology interested in making scalable web applications which can be used by people and help them to do certain work easily.
+<br>
 
-- 🌱 I’m know how to build applications with Django and deploy them completely at ready to use level.
+I am **[Bharat Kushwah](https://www.linkedin.com/in/bharatkushwah407/)**, a B.tech IT student at Rustamji Institute of Technology interested in making scalable web applications which can be used by people and help them to do certain work easily.
+
+- 🌱 I’m know how to build applications with Django,Python,MERN Stack and deploy them completely at ready to use level.
 - ⚡ Interested in Internships as a Software Developer and Build amazing application for your Company.
 
+<br>
+
 ### 📫 How to reach me  
-  [LinkedIn](https://www.linkedin.com/in/bharat-kushwah-3a2029208/)    
- 
-  [Twitter](https://twitter.com/BharatK407)
+
+<a href="https://twitter.com/BharatK407">
+  <img align="left" alt="BK | Twitter" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/bharatkushwah407/">
+  <img align="left" alt="BK's LinkedIn" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" />
+</a>
+<a href="https://www.instagram.com/bharatkushwah407/">
+  <img align="left" alt="BK's Instagram" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" />
+</a>
+<a href="https://bharat407.github.io/bharat1407/">
+   <img align="left" alt="BK's Portfolio" width="26px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-link-thin.png" />
+  </a>
   
-  [Instagram](https://www.instagram.com/bharatkushwah407/)
+<br><br>
 
 ### Languages and Tools:
 
 
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="Python" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+<img align="left" alt="Django" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg">
+<img align="left" alt="NodeJS" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+<img align="left" alt="ReactJS" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+<img align="left" alt="HTML5" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+<img align="left" align="left" alt="GitHub" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
+
 <br />
 <br />
