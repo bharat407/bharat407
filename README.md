@@ -1,6 +1,6 @@
-Hi there 👋 
+# Hi there 👋 
 
-I am Bharat Kushwah, a B.tech IT student at Rustamji Institute of Technology interested in making scalable web applications which can be used by people and help them to do certain work easily.
+I am **Bharat Kushwah**, a B.tech IT student at Rustamji Institute of Technology interested in making scalable web applications which can be used by people and help them to do certain work easily.
 
 - 🌱 I’m know how to build applications with Django and deploy them completely at ready to use level.
 - ⚡ Interested in Internships as a Software Developer and Build amazing application for your Company.
