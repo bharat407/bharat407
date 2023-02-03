@@ -1,5 +1,5 @@
 # Hi there 👋 
---------------
+----------------------------------------------------------------------------
 
 <br>
 
@@ -34,13 +34,17 @@ I am **[Bharat Kushwah](https://www.linkedin.com/in/bharatkushwah407/)**, a B.te
 <img align="left" alt="Python" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
 <img align="left" alt="Django" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg">
 <img align="left" alt="NodeJS" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+<img align="left" alt="express" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
 <img align="left" alt="ReactJS" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+<img align="left" alt="Postman" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
 <img align="left" alt="HTML5" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
 <img align="left" align="left" alt="GitHub" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
+<img align="left" alt="Andriod Studio" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" />
+
 
 <br />
 <br />
