@@ -8,7 +8,17 @@ I am **[Bharat Kushwah](https://www.linkedin.com/in/bharatkushwah407/)**, a B.te
 - 🌱 I’m know how to build applications with Django,Python,MERN Stack and deploy them completely at ready to use level.
 - ⚡ Interested in Internships as a Software Developer and Build amazing application for your Company.
 
-<br>
+
+
+## :trophy: My Github Stats:
+
+| ![Bharat's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=bharat407&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharat407) |
+| --- | --- |
+| ![Bharat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bharat407) |  **:heart: [Bharat Kushwah](https://www.linkedin.com/in/bharatkushwah407/)**
+
+
+
+
 
 ### 📫 How to reach me  
 
