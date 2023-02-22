@@ -14,7 +14,7 @@ I am **[Bharat Kushwah](https://www.linkedin.com/in/bharatkushwah407/)**, a B.te
 
 | ![Bharat's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=bharat407&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharat407) |
 | --- | --- |
-| ![Bharat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bharat407) |  **:heart: [Bharat Kushwah](https://www.linkedin.com/in/bharatkushwah407/)**
+| ![Bharat's GitHub Streak](https://streak-stats.demolab.com?user=bharat407&theme=tokyonight_duo&hide_border=true&border_radius=9) |  **:heart: [Bharat Kushwah](https://www.linkedin.com/in/bharatkushwah407/)**
 
 
 
