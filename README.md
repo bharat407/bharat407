@@ -1,5 +1,5 @@
 # Hi there 👋 
-----------------------------------------------------------------------------
+
 
 <br>
 
@@ -60,6 +60,7 @@ I am **[Bharat Kushwah](https://www.linkedin.com/in/bharatkushwah407/)**, a B.te
 
 <img align="left" alt="Visual Studio Code" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
 <img align="left" alt="Andriod Studio" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" />
+<img align="left" alt="Andriod Studio" width="46px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 
 
 <br />
