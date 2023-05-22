@@ -12,7 +12,7 @@ I am **[Bharat Kushwah](https://www.linkedin.com/in/bharatkushwah407/)**, a B.te
 
 ## :trophy: My Github Stats:
 
-| ![Bharat's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=bharat407&theme=prussian&hide_border=true&border_radius=9) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharat407&theme=prussian&hide_border=true&border_radius=9) |
+| ![Bharat's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=bharat407&show_icons=true&theme=prussian&hide_border=true&border_radius=9) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharat407&show_icons=true&theme=prussian&hide_border=true&border_radius=9) |
 | --- | --- |
 | ![Bharat's GitHub Streak](https://streak-stats.demolab.com?user=bharat407&theme=prussian&hide_border=true&border_radius=9&ring=EB5454&fire=FF4F19&currStreakNum=679EEB&sideNums=679EEB&stroke=679EEB&currStreakLabel=679EEB&sideLabels=679EEB&dates=EB4525) |  **:heart: [Bharat Kushwah](https://www.linkedin.com/in/bharatkushwah407/)**
 
