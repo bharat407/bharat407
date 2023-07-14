@@ -5,14 +5,14 @@
 
 I am **[Bharat Kushwah](https://www.linkedin.com/in/bharatkushwah407/)**, a B.tech IT student at Rustamji Institute of Technology interested in making scalable web applications which can be used by people and help them to do certain work easily.
 
-- 🌱 I’m know how to build applications with Django,Python,MERN Stack and deploy them completely at ready to use level.
-- ⚡ Interested in Internships as a Software Developer and Build amazing application for your Company.
+- 🌱 I know how to build applications with Django, Python, and MERN Stack and deploy them completely at ready to use level.
+- ⚡ Interested in Internships as a Software Developer and Building amazing applications for your Company.
 
 
 
-## :trophy: My Github Stats:
+## :trophy: My GitHub Stats:
 
-| ![Bharat's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=bharat407&theme=prussian&hide_border=true&border_radius=9) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharat407&theme=prussian&hide_border=true&border_radius=9) |
+| ![Bharat's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=bharat407&theme=prussian&hide_border=true&border_radius=9) |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharat407&theme=prussian&hide_border=true&border_radius=9) |
 | --- | --- |
 | ![Bharat's GitHub Streak](https://streak-stats.demolab.com?user=bharat407&theme=prussian&hide_border=true&border_radius=9&ring=EB5454&fire=FF4F19&currStreakNum=679EEB&sideNums=679EEB&stroke=679EEB&currStreakLabel=679EEB&sideLabels=679EEB&dates=EB4525) |  **:heart: [Bharat Kushwah](https://www.linkedin.com/in/bharatkushwah407/)**
 
