@@ -41,17 +41,20 @@ I am **[Bharat Kushwah](https://www.linkedin.com/in/bharatkushwah407/)**, a B.te
 
 
 
-<img align="left" alt="Python" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
-<img align="left" alt="Django" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg">
-<img align="left" alt="NodeJS" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
-<img align="left" alt="express" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
+
 <img align="left" alt="ReactJS" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-<img align="left" alt="Postman" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
-<img align="left" alt="HTML5" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
-<img align="left" alt="CSS3" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+<img align="left" alt="NextJS" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" />
 <img align="left" alt="JavaScript" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 <img align="left" alt="Tailwind" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" />
+<img align="left" alt="NodeJS" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+<img align="left" alt="express" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
+<img align="left" alt="Postman" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
+<img align="left" alt="Python" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+<img align="left" alt="Django" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg">
+<img align="left" alt="HTML5" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+<img align="left" alt="CSS3" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 <img align="left" alt="MySQL" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+<img align="left" alt="MongoDB" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
 <img align="left" alt="GitHub" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
 
 
