@@ -59,12 +59,15 @@ I am **[Bharat Kushwah](https://www.linkedin.com/in/bharatkushwah407/)**, a B.te
 
 <br><br>
 
-
+<img align="left" alt="Java" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+<img align="left" alt="Spring" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+<img align="left" alt="CPP" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg">
+<img align="left" alt="Docker" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
 <img align="left" alt="MongoDB" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
 <img align="left" alt="GitHub" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
 <img align="left" alt="Visual Studio Code" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
 <img align="left" alt="Andriod Studio" width="46px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" />
-<img align="left" alt="Andriod Studio" width="46px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="46px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 
 
 <br />
